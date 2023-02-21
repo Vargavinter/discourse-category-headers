@@ -15,7 +15,7 @@ div[class^="category-title-header"] {
     border: 2px solid $primary_low;
   } @else {
     border: 0px !important;
-    border-radius: 7px;
+    border-radius: 8px;
   }
   
   @if($header_background_image == "cover"){
